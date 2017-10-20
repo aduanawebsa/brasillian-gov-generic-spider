@@ -1,2 +1,5 @@
 # brasillian-gov-generic-spider
 Generic Spider to connect on brasillian government systems with SSL auth.
+
+## Branch goal
+Módulo que converterá as funcionalidades de conexão com cada formulário em endpoints de uma API.
